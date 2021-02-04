@@ -20,4 +20,9 @@
  - Предпочтительный возрастной рейтинг T («Teen» — «Для подростков»)
  - Оценка критиков не ниже 70 баллов(по 100б шкале )
  - Оценка пользователей не ниже 6 баллов(по 10б шкале)
- 
+
+### Примеры визуализации:
+![1.](https://github.com/GitPilgrim/Computer_games_success_factors/raw/main/Screenshot_boxplot.jpg)
+![2.](https://github.com/GitPilgrim/Computer_games_success_factors/raw/main/Screenshot_dist.jpg)
+![3.](https://github.com/GitPilgrim/Computer_games_success_factors/raw/main/Screenshot_line.jpg)
+![4.](https://github.com/GitPilgrim/Computer_games_success_factors/raw/main/Screenshot_scatter.jpg) 
